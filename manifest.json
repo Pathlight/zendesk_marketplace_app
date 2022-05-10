@@ -1,0 +1,15 @@
+{
+    "name": "Pathlight Performance Management",
+    "author": {
+      "name": "Pathlight",
+      "email": "support@pathlight.com",
+      "url": "https://www.pathlight.com"
+    },
+    "location": {
+      "support": {
+      }
+    },
+    "defaultLocale": "en",
+    "marketingOnly": true,
+    "private": false
+  }
